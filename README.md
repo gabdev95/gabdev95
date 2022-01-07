@@ -1,6 +1,6 @@
 ### Oii, sou Gabriele de Medeiros! 👋
 
-Estudante de Sistemas da Informação da UFRPE 🌱 
+Sou estudante de Sistemas da Informação da UFRPE 🌱 
 
 <div align="left">
   <a href="https://github.com/gabdev95">
