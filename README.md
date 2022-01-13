@@ -1,4 +1,4 @@
-### Oii, me chamo Gabriele de Medeiros! 👋
+## Oii, me chamo Gabriele de Medeiros! 👋
 
 Sou estudante de Sistema de Informação da UFRPE 🌱 
 
