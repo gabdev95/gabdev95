@@ -6,8 +6,8 @@ Sou estudante de Sistema de Informação da UFRPE 🌱
 
 <div align="center">
   <a href="https://github.com/gabdev95">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabdev95&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=outrun&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabdev95&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=gabdev95&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=outrun&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabdev95&layout=compact&langs_count=7&theme=outrun"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
