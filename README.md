@@ -1,6 +1,6 @@
 ## Oii, me chamo Gabriele de Medeiros! 👋
 
-Sou estudante de Sistemas de Informação da UFRPE 🌱 
+Sou estudante de Sistemas de Informação da UFRPE 👩‍💻💻
 
 ###
 
