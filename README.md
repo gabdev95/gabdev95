@@ -1,8 +1,14 @@
-## Oii, me chamo Gabriele de Medeiros! 👋
+## <div align="center">Oii, me chamo Gabriele de Medeiros! 👋</div>
 
-Sou estudante de Sistemas da Informação da UFRPE. 📚👩‍💻
+<div align="center">Sou estudante de Sistemas da Informação da UFRPE. 📚👩‍💻</div>
 
-###
+  
+<div align="center"><br>
+  <a href="https://www.linkedin.com/in/dev-gabriele-de-medeiros/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href = "mailto:gabriele.mdemedeiros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
+
+### Stats:
 
 <div align="center">
   <a href="https://github.com/gabdev95">
@@ -14,7 +20,8 @@ Sou estudante de Sistemas da Informação da UFRPE. 📚👩‍💻
   Temas: yeblu; outrun
 --> 
 
-<div style="display: inline_block" align="center"><br>
+###  Hard Skills:
+<div style="display: inline_block" align="left">
   <img align="center" alt="gabdev95-html" height="45" width="45" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" />
   <img align="center" alt="gabdev95-css" height="45" width="45" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" /> 
   <img align="center" alt="gabdev95-js" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
@@ -26,11 +33,7 @@ Sou estudante de Sistemas da Informação da UFRPE. 📚👩‍💻
 </div>
 
   ##
-  
-<div align="center">
-  <a href="https://www.linkedin.com/in/dev-gabriele-de-medeiros/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto:gabriele.mdemedeiros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
+
   
 <!--- 
 ![Snake animation](https://github.com/gabdev95/gabdev95/blob/output/github-contribution-grid-snake.svg)
