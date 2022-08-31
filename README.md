@@ -20,7 +20,7 @@
   Temas: yeblu; outrun
 --> 
 
-###  Hard Skills:
+###  Languages and Tools:
 <div style="display: inline_block" align="left">
   <img align="center" alt="gabdev95-html" height="45" width="45" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" />
   <img align="center" alt="gabdev95-css" height="45" width="45" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" /> 
