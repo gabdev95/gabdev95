@@ -8,13 +8,16 @@
  <a href = "mailto:gabriele.mdemedeiros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 
+<!---
 ### Stats:
 
 <div align="center">
-  <a href="https://github.com/gabdev95">
+  <a href="https://github.com/gabdev95">    
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabdev95&layout=compact&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shades-of-purple&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabdev95&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
+
+--> 
 
 <!---
   Temas: yeblu; outrun
